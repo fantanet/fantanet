@@ -55,13 +55,35 @@ header .navbar ul li a:hover{
 }
 
 h2{
-	font-family: MAKISUPA;
-	color:#2833AE;
+	font-family: Alba Super;
+	color:  #8ea7dc ;
 	text-align: center;
+	background-color: rgba(245,245,245,1);
+	text-shadow: 2px 3px 3px white;
+	text-transform:none;
+
+}
+
+
+
+h1{
+	font-family: Alba Super;
+	color:  #FFFFFF  ;
+	text-align: center;
+	background-color: #2C7EF4;
+	text-transform:none;
 
 }
 
 @font-face{
-	font-family: MAKISUPA;
-	src: url('MAKISUPA.ttf'); 
+	font-family: "Alba Super";
+	src: url('ALBAS___.TTF');
+}
+
+
+
+
+.jhgjhgf:hover{
+ width:100%;
+
 }
