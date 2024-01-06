@@ -8,7 +8,7 @@
 
 body {
 	min-height: 100vh;	
-	background-image:url(pexels-turgay-koca-15278942.jpg);
+	background-image:url(pexels-neosiam-673535.jpg);
 	background-size: cover;
 	background-position:center ;
 }
@@ -50,26 +50,42 @@ header .navbar ul li a{
 }
 
 header .navbar ul li a:hover{
-	background:#284446;
+	background:#ACD0F8;
 	color:#fff ;
+}
+
+h2{
+	font-family: Alba Super;
+	color:  #8ea7dc ;
+	text-align: center;
+	background-color: rgba(245,245,245,1);
+	text-shadow: 2px 3px 3px white;
+	text-transform:none;
+
 }
 
 
 
 h1{
+	font-family: Alba Super;
+	color:  #FFFFFF  ;
 	text-align: center;
-	color:  orange  ;
-	font-family:Alba Super;
-	text-shadow: 2px 3px 3px white;	
-	background-color: rgba(245,245,245,0.8);
-	text-transform:none ;
-}
+	background-color: #2C7EF4;
+	text-transform:none;
 
+}
 
 @font-face{
 	font-family: "Alba Super";
 	src: url('ALBAS___.TTF');
 }
 
+
+
+
+.jhgjhgf:hover{
+ width:100%;
+
+}
 
 
