@@ -58,40 +58,23 @@ header .navbar ul li a:hover{
 h1{
 	text-align: center;
 	color: #FEFEFE;
-	font-family:HIRO MISAKE
+	font-family: "Alba Super";
+	text-shadow: 2px 3px 3px purple;
+	text-transform : none;
+	
 }
 
 h2{
 	text-align: center;
 	color: #FEFEFE;
-	font-family: HIRO MISAKE;
+	font-family:Alba Super;
+	text-shadow: 2px 3px 3px black;
+	text-transform: none;
 
 }
+
 
 @font-face{
-	font-family: HIRO MISAKE;
-	src: url('HIROMISAKE.ttf');
+	font-family: "Alba Super";
+	src: url('ALBAS___.TTF');
 }
-
-
-
-/*.vert1{
-	color:  #2E7E26;
-
-}
-.vert2{
-	color:  #26CB04
-
-}
-.vert3{
-	color:  #AFD062;
-
-}
-.vert4{
-	color:  lightgreen;
-
-}
-.vert5{
-	color:  lightgreen;
-}
-*/
