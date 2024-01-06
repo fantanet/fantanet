@@ -54,8 +54,19 @@ header .navbar ul li a:hover{
 	color:#fff ;
 }
 
-}
-.vert{
-	color:#EDF5E3 ;
 
+
+h1{
+	text-align: center;
+	color:  orange  ;
+	font-family:Alba Super;
+	text-shadow: 2px 3px 3px white;	
+	background-color: rgba(245,245,245,0.8);
+	text-transform:none ;
+}
+
+
+@font-face{
+	font-family: "Alba Super";
+	src: url('ALBAS___.TTF');
 }
