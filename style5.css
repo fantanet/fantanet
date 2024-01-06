@@ -1,0 +1,71 @@
+*{
+	margin: 0; padding: 0;
+	box-sizing: border-box;
+	font-family: none;
+	text-transform:capitalize ;
+	text-decoration: none;
+}
+
+body {
+	min-height: 100vh;	
+	background-image:url(pexels-nick-collins-1293006.jpg);
+	background-size: cover;
+	background-position:center ;
+}
+
+
+
+header {
+	position: fixed;
+	top: 0; left: 0;right: 0;
+	background: #ffffff;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, .1);
+	padding: 0px 7%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	z-index: 1000;
+}
+
+header .logo{
+	font-weight: bolder;
+	font-size: 25px;
+	color : #333 
+}
+
+header .navbar ul{
+	list-style: none;
+
+}
+
+header .navbar ul li{
+	position: relative;
+	float: left;
+
+}
+
+header .navbar ul li a{
+	font-size: 20px;
+	padding: 20px;
+	color :#333;
+	display: block
+}
+
+header .navbar ul li a:hover{
+	background: #ba7ec4 ;
+	color:#fff ;
+}
+h2{
+	text-align: center;
+	color:   #ba7ec4   ;
+	font-family:Alba Super;
+	text-shadow: 2px 3px 3px white;	
+	background-color: rgba(245,245,245,0.8);
+	text-transform:none ;
+}
+
+
+@font-face{
+	font-family: MAKISUPA;
+	src: url('MAKISUPA.ttf') ; 
+}

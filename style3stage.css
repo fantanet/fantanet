@@ -1,0 +1,112 @@
+*{
+	margin: 0; padding: 0;
+	box-sizing: border-box;
+	font-family: none;
+	text-transform:capitalize ;
+	text-decoration: none;
+}
+
+body {
+	min-height: 100vh;	
+	background-image:url(pexels-neosiam-673535.jpg);
+	background-size: cover;
+	background-position:center ;
+}
+
+header {
+	position: fixed;
+	top: 0; left: 0;right: 0;
+	background: #ffffff;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, .1);
+	padding: 0px 7%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	z-index: 1000;
+}
+
+header .logo{
+	font-weight: bolder;
+	font-size: 25px;
+	color : #333 
+}
+
+header .navbar ul{
+	list-style: none;
+
+}
+
+header .navbar ul li{
+	position: relative;
+	float: left;
+
+}
+
+header .navbar ul li a{
+	font-size: 20px;
+	padding: 20px;
+	color :#333;
+	display: block
+}
+
+header .navbar ul li a:hover{
+	background:#ACD0F8;
+	color:#fff ;
+}
+
+h2{
+	font-family: Alba Super;
+	color:  #8ea7dc ;
+	text-align: center;
+	background-color: rgba(245,245,245,1);
+	text-shadow: 2px 3px 3px white;
+	text-transform:none;
+
+}
+
+
+
+h1{
+	font-family: Alba Super;
+	color:  #FFFFFF  ;
+	text-align: center;
+	background-color: #2C7EF4;
+	text-transform:none;
+
+}
+
+@font-face{
+	font-family: "Alba Super";
+	src: url('ALBAS___.TTF');
+}
+
+
+
+
+.jhgjhgf:hover{
+ width:100%;
+
+}
+
+
+
+/*.vert1{
+	color:  #2E7E26;
+
+}
+.vert2{
+	color:  #26CB04
+
+}
+.vert3{
+	color:  #AFD062;
+
+}
+.vert4{
+	color:  lightgreen;
+
+}
+.vert5{
+	color:  lightgreen;
+}
+*/
